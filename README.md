@@ -35,7 +35,7 @@
  </p>
  
  <cite>
- For other endponts, sample requests and responses, check the backend coding chanllenge pdf.
+ For other endponts, sample requests and responses, check the backend coding challenge pdf.
  </cite>
  <br /> <br />
  <h4>
